@@ -4,7 +4,7 @@ A script to transfer Zybook assignment grades to Canvas.
 
 Remarks
 --------
-I wrote this while I was working as a student assistant.
+I developed this while I was working as a student assistant.
 Writing this script saved me from having to manually input over a hundred student grades each time a Zybooks assignment was given to the class.
 
 This script automates the entire grading process from logging in to uploading the grades.
